@@ -7,3 +7,10 @@ function deconnexion() {
 }
 
 console.log(saluer("DevOps"));
+
+function login(utilisateur, motDePasse) {
+  return utilisateur === "admin" && motDePasse === "1234";
+}
+
+console.log(saluer("DevOps"));
+

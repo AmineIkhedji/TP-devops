@@ -14,3 +14,4 @@ function login(utilisateur, motDePasse) {
 
 console.log(saluer("DevOps"));
 
+"// ligne ajoutee par erreur" 
